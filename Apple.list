@@ -1,4 +1,3 @@
-payload:
   - DOMAIN,ingest.apple-studies.com
   - DOMAIN,apple.com.akadns.net
   - DOMAIN,configuration-lb.ls-apple.com.akadns.net
